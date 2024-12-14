@@ -1,0 +1,22 @@
+[
+    {
+        "title": "book 1",
+        "author": "author 1",
+        "isbn": 38529,
+        "year": 2023,
+        "price": 200,
+        "quantity": 14,
+        "bookAddedAt": "11-12-2024 22:06:44",
+        "bookLastUpdatedAt": "11-12-2024 22:08:00"
+    },
+    {
+        "title": "noob",
+        "author": "mk",
+        "isbn": 14173,
+        "year": 24,
+        "price": 2400,
+        "quantity": 12,
+        "bookAddedAt": "14-12-2024 14:04:46",
+        "bookLastUpdatedAt": ""
+    }
+]
